@@ -1,4 +1,4 @@
-# Unfinished-Playdate-Game-Excerpts
+# Unfinished Playdate Game: Code Excerpts
 Code excerpts from the unfinished playdate game i worked on
 
 I am not able to share the whole repo as the owner wishes to keep it private but I have been given permission to share code excerpts and some files to have here as part of my portfolio.
